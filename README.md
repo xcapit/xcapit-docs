@@ -1,9 +1,5 @@
 # xcapit-docs
 
+ALL PROJECTS HAVE BEEN MOVED TO GITLAB. Check: 
 
-# ChangeU DeFi Diagram
-![](assets/xcapit-defi-diagram.jpg)
-
-
-# Machine Learning Pipeline
-![](assets/xcapit-pipeline.jpg)
+https://gitlab.com/xcapit
